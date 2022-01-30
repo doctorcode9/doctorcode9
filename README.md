@@ -4,6 +4,7 @@
 <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470wiivnekxhe647ezupmu99zoyuqkf65pj6dx2oxz&rid=giphy.gif&ct=g">
 </center>
 <br/>
+<br/>
 
 ## I'm a Medical student, Developer and a Content Creator 
 - 🔭 I’m currently working on [Doctor Code](https://www.youtube.com/c/doctorcode9)
@@ -26,6 +27,7 @@
 </a>
 
 ## Languages and Tools
+<p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="Android Logo" width="42px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Android Logo" width="42px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Android Logo" width="42px">
@@ -36,3 +38,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Kotlin Logo" width="42px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Node js Logo" width="42px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Android Logo" width="42px">
+</p>
