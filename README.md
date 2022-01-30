@@ -3,8 +3,6 @@
 <center>
 <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470wiivnekxhe647ezupmu99zoyuqkf65pj6dx2oxz&rid=giphy.gif&ct=g">
 </center>
-<br/>
-<br/>
 
 ## I'm a Medical student, Developer and a Content Creator 
 - 🔭 I’m currently working on [Doctor Code](https://www.youtube.com/c/doctorcode9)
