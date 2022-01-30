@@ -1,5 +1,11 @@
 # Hi, I'm Mouheb aka - [Doctor Code](https://www.youtube.com/c/doctorcode9) 👋
 
+<center>
+<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470wiivnekxhe647ezupmu99zoyuqkf65pj6dx2oxz&rid=giphy.gif&ct=g">
+</center>
+<br/>
+<br/>
+
 ## I'm a Medical student, Developer and a Content Creator 
 - 🔭 I’m currently working on [Doctor Code](https://www.youtube.com/c/doctorcode9)
 - 🌱 I’m currently learning everything 😅
@@ -12,7 +18,7 @@
 [<img alt="Doctor code Instagram account" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" width="24px">]("https://www.instagram.com/doctorcode9/")
 [<img alt="Doctor code Twitter account" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/upwork.svg" width="24px">]("https://www.upwork.com/freelancers/~01046f94bd8a650d0b")
 
-
+---
 ## Languages and Tools
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="Android Logo" width="42px">]("#")
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Android Logo" width="42px">]("#")
