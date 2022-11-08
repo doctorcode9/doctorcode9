@@ -1,5 +1,5 @@
 # Hi, I'm Mouheb aka - [Doctor Code](https://www.youtube.com/c/doctorcode9) 👋
-![](https://komarev.com/ghpvc/?username=doctorcode9&color=blue)
+![](https://komarev.com/ghpvc/?username=doctorcode9&color=blue&style=for-the-badge)
 <center>
 <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470wiivnekxhe647ezupmu99zoyuqkf65pj6dx2oxz&rid=giphy.gif&ct=g">
 </center>
